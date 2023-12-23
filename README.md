@@ -38,3 +38,7 @@ The script will open a window displaying real-time object detection from your we
 ## Important Note
 Ensure that your webcam is connected and accessible by the OpenCV library.
 The script uses the YOLOv8 model with MPS (Mixed Precision Training). You may need a compatible GPU to run this efficiently.
+
+
+link to access the video
+https://drive.google.com/drive/folders/1QM6mvcELUSAtFJNPzDtKwYbSpfu-rGDh
